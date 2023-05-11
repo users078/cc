@@ -4,3 +4,4 @@ exp3.pkt -> configuration of ip address with router
 exp4.pkt -> Static Routing
 exp4.pkt -> Default Routing
 exp7a.pkt -> RIP
+exp7b.txt -> RIP version 2 commands
