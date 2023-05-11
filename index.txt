@@ -1,3 +1,4 @@
 exp1a.pkt -> message exchange between hub and switch
 exp2a.pkt -> use of ping command between two pc's
 exp3.pkt -> configuration of ip address with router
+exp4.pkt -> Static Routing 
