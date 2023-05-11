@@ -5,3 +5,4 @@ exp4.pkt -> Static Routing
 exp4.pkt -> Default Routing
 exp7a.pkt -> RIP
 exp7b.txt -> RIP version 2 commands
+exp8.pkt -> EIGRP bandwidth (Router(config)#clock rate 64000 , bandwidth 720000)
