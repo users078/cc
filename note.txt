@@ -1,0 +1,5 @@
+Static - Network address .0 end , mask , next hop address 11.0.0.3
+RIP Version 1 - add all the network addresses
+RIP Version 2 - router rip , version 2 ,network 11.0.0.0 (add every network address)
+EIGRP - router eigrp 10 - autonoumous system , network 11.0.0.0 (add only your own internal and known network addresses)
+OSPG - router ospf 1 , network 11.0.0.0 255.0.0.0 area 0 
